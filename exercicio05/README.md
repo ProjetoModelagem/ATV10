@@ -10,4 +10,11 @@ Aplicar testes parametrizados com pytest em dois contextos:
 ## Como executar
 ```bash
 pip install -r requirements.txt
+```
 pytest exercicios/exercicio05/tests -v
+
+# Logs
+<img width="1275" height="400" alt="exc05" src="https://github.com/user-attachments/assets/4225e9fa-102d-405c-806c-969be2fa1a5a" />
+
+
+<img width="1274" height="355" alt="exc05_2" src="https://github.com/user-attachments/assets/22cd0a4f-a89d-49da-a072-f0296cd96463" />
