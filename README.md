@@ -25,4 +25,7 @@ Ambiente: Windows 10, Python 3.12, pytest 7.4.3
 
 - exercicio05:
   - test_validacoes_parametrizadas.py (validação de e-mail inválido, via reqres.in): passed  
+
   - test_busca_parametrizada.py (busca no Google): skipped (sem Chrome)
+
+ # Os logs estão dentro de cada readme em cada exercicio
