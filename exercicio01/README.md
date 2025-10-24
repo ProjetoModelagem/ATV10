@@ -13,3 +13,5 @@ Instale as dependências:
 pip install -r requirements.txt
 
 pytest exercicios/exercicio01/tests -v
+
+<img width="1285" height="329" alt="image" src="https://github.com/user-attachments/assets/3c9b6fe9-dcf4-4c9f-b875-bfd26252bdf4" />
