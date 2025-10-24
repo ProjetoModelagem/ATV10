@@ -14,5 +14,9 @@ pip install -r requirements.txt
 
 pytest exercicios/exercicio01/tests -v
 
+```
+# Log
+
 <img width="1297" height="331" alt="exc01" src="https://github.com/user-attachments/assets/81789236-0402-454f-ae63-91947c37d39a" />
+
 
