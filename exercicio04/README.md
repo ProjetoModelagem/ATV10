@@ -13,4 +13,8 @@ Se o Chrome não estiver disponível no ambiente, o teste é automaticamente **p
 ## Como executar
 ```bash
 pip install -r requirements.txt
+```
 pytest exercicios/exercicio04/tests -v
+
+# Logs
+<img width="1273" height="310" alt="exc04" src="https://github.com/user-attachments/assets/3d62fade-ee17-46b0-bdfc-c459cecc8365" />
