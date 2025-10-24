@@ -8,4 +8,8 @@ Validar operações CRUD (Create, Read, Update, Delete) em uma API REST fake.
 ## Como executar
 ```bash
 pip install -r requirements.txt
+```
 pytest exercicios/exercicio03/tests -v
+
+# Logs
+<img width="1283" height="311" alt="exc03" src="https://github.com/user-attachments/assets/b12f9fdb-543b-4c06-b427-d07f4fd1cf01" />
